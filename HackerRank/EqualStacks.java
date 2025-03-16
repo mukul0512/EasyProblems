@@ -103,3 +103,6 @@ public class EqualStacks {
         System.out.println("Maximum Equal Height: " + result);
     }
 }
+
+// Time Complexity = O(n1 + n2 + n3)
+// Space Complexity = O(n1 + n2 + n3)
