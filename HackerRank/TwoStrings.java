@@ -83,3 +83,6 @@ public class TwoStrings {
         return "NO";
     }
 }
+
+// Time Complexity = O(n) where n = length of the longest string.
+// Space Complexity = O(1) ∵ in english alphabet we have only 26 character.
